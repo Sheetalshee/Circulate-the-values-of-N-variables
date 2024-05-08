@@ -23,7 +23,7 @@ def circulate():
     n=int(input())
     l=l[n:]+l[:n]
     print("After circulating the values are:",l)
-
+~~~
 ## Output:
 ![image](https://github.com/Sheetalshee/Circulate-the-values-of-N-variables/assets/144979107/280ccc6f-9618-452c-a41d-1eedb422e819)
 
