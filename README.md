@@ -13,7 +13,6 @@ Give two examples
 Get the value from the user for the number of rotation
 ### Step 4: 
 Using the slicing concept rotate the list
-
 ### Step 5: 
 End the program 
 ## Program:
